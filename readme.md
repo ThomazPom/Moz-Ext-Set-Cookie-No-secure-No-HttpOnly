@@ -11,4 +11,4 @@ This extension disable 'Secure' & 'HttpOnly' in set-cookie header
 - 1.0 : Initial release
 
 # Downloads
-- [Download with firefox](https://addons.mozilla.org/fr/firefox/addon/set-cookie-no-secure-no-httponly/)
+- [Download with firefox](https://addons.mozilla.org/fr/firefox/addon/set-cookie-no-secure-httponly/)

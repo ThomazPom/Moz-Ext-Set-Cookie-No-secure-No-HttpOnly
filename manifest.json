@@ -1,7 +1,7 @@
       {
         "manifest_version": 2,
         "name": "Set Cookie: No secure - No HttpOnly",
-        "version": "1.0",
+        "version": "1.2",
         "description": "Disable 'Secure' & 'HttpOnly' in set-cookie header",
         "homepage_url": "https://github.com/ThomazPom/Moz-Ext-Set-Cookie-No-secure-No-HttpOnly",
         "icons": {
